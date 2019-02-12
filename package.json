@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^1.18.10"
+    "long": "^4.0.0",
+    "nodemon": "^1.18.10",
+    "utility": "^1.15.0"
   }
 }
